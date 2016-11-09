@@ -1,1 +1,1 @@
-# Multi-Cycle-Architecture
+# MultiCycle-Architecture
